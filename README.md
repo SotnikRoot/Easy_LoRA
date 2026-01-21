@@ -31,7 +31,7 @@ bash
 ```
 python chat_LoRA.py
 ```
-🛠 Technical Details
+*🛠 Technical Details*
 Model
 Base Model: Qwen/Qwen2.5-1.5B-Instruct
 
