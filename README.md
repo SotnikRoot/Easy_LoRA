@@ -19,7 +19,8 @@ pip install torch transformers datasets peft accelerate
 Place your JSON file with training data in the following format:
 
 json
-```{
+```
+{
   "data": [
     {
       "instruction": "User question",
@@ -27,7 +28,8 @@ json
       "output": "Correct answer"
     }
   ]
-}```
+}
+```
 3. Start Training
 bash
 python train_LoRA.py
